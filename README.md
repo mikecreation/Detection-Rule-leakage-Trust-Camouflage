@@ -2,11 +2,12 @@
 
 [![DOI](https://zenodo.org/badge/1274909231.svg)](https://doi.org/10.5281/zenodo.20769527)
 
-**Author:** Michael Zot
-**Official OSF DOI:** https://doi.org/10.17605/OSF.IO/XG82Q
-
-**Zenodo GitHub Archive DOI:** https://doi.org/10.5281/zenodo.20769527
-**ORCID:** 0009-0001-9194-938X
+| Field                     | Record                                  |
+| ------------------------- | --------------------------------------- |
+| Author                    | Michael Zot                             |
+| Official OSF DOI          | https://doi.org/10.17605/OSF.IO/XG82Q   |
+| Zenodo GitHub Archive DOI | https://doi.org/10.5281/zenodo.20769527 |
+| ORCID                     | 0009-0001-9194-938X                     |
 
 This repository mirrors the research materials for **Detection-Rule Leakage and Trust Camouflage**, a function-over-form framework for studying adversarial adaptation in open-audience mental-health communication.
 
@@ -18,7 +19,7 @@ The official peer-review package and study materials are archived on OSF:
 
 https://doi.org/10.17605/OSF.IO/XG82Q
 
-The OSF archive should be treated as the canonical citation source. This GitHub repository is a public mirror for easier access, versioning, code review, and collaboration.
+The OSF archive should be treated as the canonical citation source. This GitHub repository is a public mirror for easier access, repository inspection, code review, and collaboration.
 
 ## Archived GitHub release
 
