@@ -1,0 +1,4 @@
+H2 stimuli rows: 48
+Conditions: Blunt, Neutral, Therapeutic_Mild, Therapeutic_Strong
+Domains: Blame_Relocation, Conversation_Avoidance, Reality_Dissolution, Responsibility_Avoidance
+Therapeutic_Mild concrete repair violations: 0

@@ -1,0 +1,17 @@
+participant_id,condition,vignette_id,domain,accountability_responsibility,accountability_repair,accountability_harm,credibility,emotional_maturity,blame_assignment,consequence_endorsement,safety_perception,therapy_language_check,age,gender,country,therapy_exposure,attention_check
+P001,Blunt,V01_RA,Responsibility_Avoidance,4,4,4,4,4,4,4,4,4,30,example,US,Yes,Strongly agree
+P001,Blunt,V04_CA,Conversation_Avoidance,4,4,4,4,4,4,4,4,4,30,example,US,Yes,Strongly agree
+P001,Blunt,V07_BR,Blame_Relocation,4,4,4,4,4,4,4,4,4,30,example,US,Yes,Strongly agree
+P001,Blunt,V10_RD,Reality_Dissolution,4,4,4,4,4,4,4,4,4,30,example,US,Yes,Strongly agree
+P002,Neutral,V01_RA,Responsibility_Avoidance,4,4,4,4,4,4,4,4,4,30,example,US,Yes,Strongly agree
+P002,Neutral,V04_CA,Conversation_Avoidance,4,4,4,4,4,4,4,4,4,30,example,US,Yes,Strongly agree
+P002,Neutral,V07_BR,Blame_Relocation,4,4,4,4,4,4,4,4,4,30,example,US,Yes,Strongly agree
+P002,Neutral,V10_RD,Reality_Dissolution,4,4,4,4,4,4,4,4,4,30,example,US,Yes,Strongly agree
+P003,Therapeutic_Mild,V01_RA,Responsibility_Avoidance,4,4,4,4,4,4,4,4,4,30,example,US,Yes,Strongly agree
+P003,Therapeutic_Mild,V04_CA,Conversation_Avoidance,4,4,4,4,4,4,4,4,4,30,example,US,Yes,Strongly agree
+P003,Therapeutic_Mild,V07_BR,Blame_Relocation,4,4,4,4,4,4,4,4,4,30,example,US,Yes,Strongly agree
+P003,Therapeutic_Mild,V10_RD,Reality_Dissolution,4,4,4,4,4,4,4,4,4,30,example,US,Yes,Strongly agree
+P004,Therapeutic_Strong,V01_RA,Responsibility_Avoidance,4,4,4,4,4,4,4,4,4,30,example,US,Yes,Strongly agree
+P004,Therapeutic_Strong,V04_CA,Conversation_Avoidance,4,4,4,4,4,4,4,4,4,30,example,US,Yes,Strongly agree
+P004,Therapeutic_Strong,V07_BR,Blame_Relocation,4,4,4,4,4,4,4,4,4,30,example,US,Yes,Strongly agree
+P004,Therapeutic_Strong,V10_RD,Reality_Dissolution,4,4,4,4,4,4,4,4,4,30,example,US,Yes,Strongly agree
