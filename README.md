@@ -34,7 +34,7 @@ The OSF archive remains the canonical citation source. The Zenodo DOI archives t
 This repository includes:
 
 * Main manuscript
-* Trust Camouflage Function Score exploratory coding protocol
+* Trust Camouflage Function Score coding protocol
 * H2 preregistration materials
 * H2 vignette stimuli
 * Qualtrics / jsPsych pilot materials
@@ -45,7 +45,7 @@ This repository includes:
 * MIPU reversal cost protocol
 * H3 composure credibility protocol
 * Literature-gap search materials
-* Manifest and package files
+* Manifest files and optional complete archive
 
 ## Core constructs
 
