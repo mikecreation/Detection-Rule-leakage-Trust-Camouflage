@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: "Detection-Rule Leakage and Trust Camouflage: Peer-Review Package, Study Materials, and Validation Roadmap"
+message: "If you use this research package, please cite the OSF archive."
+type: dataset
+authors:
+
+* family-names: Zot
+  given-names: Michael
+  orcid: "https://orcid.org/0009-0001-9194-938X"
+  year: 2026
+  doi: "10.17605/OSF.IO/XG82Q"
+  url: "https://doi.org/10.17605/OSF.IO/XG82Q"
+  abstract: "A peer-review package and research materials for Detection-Rule Leakage and Trust Camouflage, a function-over-form framework for studying adversarial adaptation in open-audience mental-health communication."
+  keywords:
+* cognitive security
+* trust camouflage
+* detection-rule leakage
+* therapy-speak
+* digital psychology
+* mental-health communication
+* coercive control
+* DARVO
+* gaslighting
+* adversarial adaptation
+* LLM safety
+* rhetorical laundering
+* function-over-form
+* social epistemology
+* psychological manipulation
+* concept creep
+  license: "CC-BY-NC-SA-4.0"
+  repository-code: "https://github.com/YOUR-GITHUB-USERNAME/detection-rule-leakage-trust-camouflage"
+  repository-artifact: "https://doi.org/10.17605/OSF.IO/XG82Q"
