@@ -1,6 +1,7 @@
 # Detection-Rule Leakage and Trust Camouflage
 
-[![DOI](https://zenodo.org/badge/1274909231.svg)](https://doi.org/10.5281/zenodo.20769527)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20778645.svg)](https://doi.org/10.5281/zenodo.20778645)
+
 
 | Field                     | Record                                  |
 | ------------------------- | --------------------------------------- |
