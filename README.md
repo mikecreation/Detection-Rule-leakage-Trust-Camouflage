@@ -26,7 +26,7 @@ The OSF archive should be treated as the canonical citation source. This GitHub 
 
 This GitHub materials mirror is archived on Zenodo:
 
-https://doi.org/10.5281/zenodo.20769527
+https://doi.org/10.5281/zenodo.20779751
 
 The OSF archive remains the canonical citation source. The Zenodo DOI archives the GitHub release for repository preservation and indexing.
 
