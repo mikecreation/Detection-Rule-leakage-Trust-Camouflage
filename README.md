@@ -9,6 +9,7 @@
 | Author                    | Michael Zot                                                             |
 | ORCID                     | 0009-0001-9194-938X                                                     |
 | Official OSF DOI          | https://doi.org/10.17605/OSF.IO/XG82Q                                   |
+| PhilPapers / PhilArchive  | https://philpapers.org/rec/ZOTDLA                                       |
 | NCBI My Bibliography      | https://www.ncbi.nlm.nih.gov/myncbi/1Vch2ALud0Sk3I/bibliography/public/ |
 | Zenodo GitHub Archive DOI | https://doi.org/10.5281/zenodo.20779751                                 |
 | GitHub Materials Mirror   | https://github.com/mikecreation/detection-rule-leakage-trust-camouflage |
@@ -24,6 +25,14 @@ The official peer-review package and study materials are archived on OSF:
 https://doi.org/10.17605/OSF.IO/XG82Q
 
 The OSF archive should be treated as the canonical citation source. This GitHub repository is a public mirror for easier access, repository inspection, code review, and collaboration.
+
+## PhilPapers / PhilArchive record
+
+This work is listed on PhilPapers / PhilArchive:
+
+https://philpapers.org/rec/ZOTDLA
+
+This record provides an additional philosophy and cross-disciplinary visibility layer for the manuscript.
 
 ## NCBI bibliography record
 
@@ -140,5 +149,6 @@ Zot, M. (2026). *Detection-Rule Leakage and Trust Camouflage: Peer-Review Packag
 ## Related links
 
 * Official OSF archive: https://doi.org/10.17605/OSF.IO/XG82Q
+* PhilPapers / PhilArchive record: https://philpapers.org/rec/ZOTDLA
 * NCBI My Bibliography: https://www.ncbi.nlm.nih.gov/myncbi/1Vch2ALud0Sk3I/bibliography/public/
 * Zenodo GitHub archive: https://doi.org/10.5281/zenodo.20779751
